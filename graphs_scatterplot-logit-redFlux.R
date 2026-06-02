@@ -1,5 +1,7 @@
 ### printing scatterplot - influence on %necromass
+### Dr. Annette Dathe, Cornell University, June 1st 2026
 # PNAS Fig. 4
+
 setwd("C:/Users/Your/Path/Here")
 
 library(car)    #includes function logit
