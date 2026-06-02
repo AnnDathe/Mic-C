@@ -1,7 +1,6 @@
 ### main code running base and MC simulations
 ### Dr. Annette Dathe, Cornell University, June 1st 2026
 
-setwd("C:/Users/ad273/Documents/R-scripts/Mic-C_redFlux")
 setwd("C:/Users/Your/Path/Here")
 
 # load libraries
